@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+<meta name="chromevox" content-script="no">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" nonce="b7Fh75ab9C7bPWcqwrGTbg"><link rel="stylesheet" href="/static/macros/client/css/3616584054-mae_html_css_ltr.css">
+<script type="text/javascript" src="/static/macros/client/js/2163587106-warden_bin_i18n_warden.js"></script>
+</head>
+<body>
+<table id="warning-bar-table" class="full_size" cellspacing="0" cellpadding="0"><tr><td><div id="warning" class="warning-bar"></div></td></tr><tr><td style="height: 100%"><iframe id="sandboxFrame" allow="accelerometer *; ambient-light-sensor *; autoplay *; camera *; clipboard-read *; clipboard-write *; encrypted-media *; fullscreen *; geolocation *; gyroscope *; magnetometer *; microphone *; midi *; payment *; picture-in-picture *; screen-wake-lock *; speaker *; sync-xhr *; usb *; web-share *; vibrate *; vr *" sandbox="allow-downloads allow-forms allow-modals allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation">
+</iframe>
+</td></tr></table><script type="text/javascript" nonce="ZFmtZqQsnCHjJLUWpJFgqQ">
+(function() {
+var el = document.getElementById('sandboxFrame');
+el.onload = function() {
+goog.script.init("\x7b\x22functionNames\x22:\x5b\x22doGet\x22\x5d,\x22sandboxMode\x22:\x22IFRAME_SANDBOX\x22,\x22callbackTimeout\x22:390000,\x22deploymentId\x22:\x22AKfycbwzewrpMx9gWhhnciarDGlL-swUEfQwsX-eFwX_wCRpQbNis2rZKPXm1UOe0Dm-m6h2\x22,\x22eei\x22:\x22\x22,\x22sandboxHost\x22:\x22https:\/\/n-vriq6twv2zd3trny3vew4sqdd7y2skj3gwmb3rq-0lu-script.googleusercontent.com\x22,\x22clientSideProperties\x22:\x7b\x22google.script.sandbox.mode\x22:\x22IFRAME_SANDBOX\x22,\x22google.script.host.origin\x22:\x22https:\/\/script.google.com\x22\x7d,\x22actionPrefix\x22:\x22\/macros\/s\/AKfycbwzewrpMx9gWhhnciarDGlL-swUEfQwsX-eFwX_wCRpQbNis2rZKPXm1UOe0Dm-m6h2\x22,\x22userHtml\x22:\x22\x3c!DOCTYPE html\x3e\\n\x3chtml\x3e\\n\\n\x3chead\x3e\\n\\t\x3ctitle\x3efull screen iframe\x3c\\\/title\x3e\\n\\t\x3cstyle type\x3d\\\x22text\/css\\\x22\x3e\\n\\t\\thtml \x7b\\n\\t\\t\\toverflow: auto;\\n\\t\\t\x7d\\n\\t\\t\\n\\t\\thtml,\\n\\t\\tbody,\\n\\t\\tdiv,\\n\\t\\tiframe \x7b\\n\\t\\t\\tmargin: 0px;\\n\\t\\t\\tpadding: 0px;\\n\\t\\t\\theight: 100%;\\n\\t\\t\\tborder: none;\\n\\t\\t\x7d\\n\\t\\t\\n\\t\\tiframe \x7b\\n\\t\\t\\tdisplay: block;\\n\\t\\t\\twidth: 100%;\\n\\t\\t\\tborder: none;\\n\\t\\t\\toverflow-y: auto;\\n\\t\\t\\toverflow-x: hidden;\\n\\t\\t\x7d\\n\\t\x3c\\\/style\x3e\\n\x3c\\\/head\x3e\\n\\n\x3cbody\x3e\\n\\t\x3ciframe src\x3d\\\x22https:\/\/games.s3.yandex.net\/166711\/zixgpmuvi1j4ahqkxmecru1jxp7yz0ew\/index.html\\\x22\\n\\t\\t\\tframeborder\x3d\\\x220\\\x22\\n\\t\\t\\tmarginheight\x3d\\\x220\\\x22\\n\\t\\t\\tmarginwidth\x3d\\\x220\\\x22\\n\\t\\t\\twidth\x3d\\\x22100%\\\x22\\n\\t\\t\\theight\x3d\\\x22100%\\\x22\\n\\t\\t\\tscrolling\x3d\\\x22auto\\\x22\x3e\\n\x3c\\\/iframe\x3e\\n\\n\x3c\\\/body\x3e\\n\\n\x3c\\\/html\x3e\\n\\n\x22,\x22ncc\x22:\x22\x7b\\\x22awhs\\\x22:true\x7d\x22\x7d", "", undefined, true , false  , "false", "https:\/\/n-vriq6twv2zd3trny3vew4sqdd7y2skj3gwmb3rq-0lu-script.googleusercontent.com");}
+el.src = 'https:\/\/n-vriq6twv2zd3trny3vew4sqdd7y2skj3gwmb3rq-0lu-script.googleusercontent.com\/userCodeAppPanel';
+}());
+</script>
+</body>
+</html>
